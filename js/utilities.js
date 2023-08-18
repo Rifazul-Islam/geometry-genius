@@ -37,18 +37,3 @@ function addToCalculateArea(itemTitle, values){
      parentContainer.appendChild(p)
   }
 
-  
-
-
-
-
-
-
-// const inputField = document.getElementById('triangle-base');
-// const inputValueText = inputField.value;
-// const base = parseFloat(inputValueText);
-// inputField.value = '' ;
-
-// const inputFields = document.getElementById('triangle-height');
-// const inputFieldTexts = inputFields.value;
-// const height = parseFloat(inputFieldTexts);
